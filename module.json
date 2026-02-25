@@ -11,5 +11,8 @@
         "pyworker/pymydock"
     ],
     "xcomps": [],
-    "dependencies": []
+    "dependencies": [
+        "zipper:0.1.0",
+        "promises"
+    ]
 }
